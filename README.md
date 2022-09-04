@@ -10,6 +10,13 @@
 >
 > 完整资料：[https://download.csdn.net/download/HXBest/21702065](https://download.csdn.net/download/HXBest/21702065)
 
+**欢迎一起交流学习呀！**
+| 微信                                                         | 公众号                                                       | B站号                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image](https://img-blog.csdnimg.cn/img_convert/cece57138556f8ebe17ea8521e3114e1.png)  | ![image](https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png)| ![image](https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png)
+
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3a669239ba214139ab01f873b4d98237.png#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/84f01bd6d33a4498abec835f68e1692b.png#pic_center)
